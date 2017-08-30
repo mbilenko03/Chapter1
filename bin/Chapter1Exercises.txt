@@ -1,0 +1,48 @@
+-Understanding Main Method Quiz due on Friday example page 19 
+-Exercises 1-10 page 48-49
+-Game Zone page 51 #1 
+-Case problem page 51 # 1-2 
+-Debugging 1-4 display
+
+1.
+	a) UNCONVENTIONAL
+	b) ILLEGAL
+	c) ILLEGAL
+	d) LEGAL
+	e) ILLEGAL
+	f) LEGAL
+	g) ILLEGAL
+	h) ILLEGAL
+	i) ILLEGAL
+	j) UNCONVENTIONAL
+	
+2.
+	a) LEGAL
+	b) ILLEGAL
+	c) ILLEGAL
+	d) UNCONVENTIONAL
+	e) ILLEGAL
+	f) UNCONVENTIONAL
+	g) ILLEGAL
+	h) ILLEGAL
+	i) LEGAL
+	j) UNCONVENTIONAL
+	
+3.
+	a) teachers, students, schedule
+	b) insurer, insured, payment
+	c) price, date, policy
+
+4.
+	a) number of theaters, movie schedule, concessions
+	b) players, coach, fans
+	c) violinist, pianist, percussionist  
+	
+5.
+	a) School
+	b) RestrauntMenu
+	c) Chairs
+
+6-11. Completed in exercises package.	
+
+	
